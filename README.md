@@ -1,16 +1,17 @@
+![Header file](https://github.com/Aryanb10/Aryanb10/blob/3daf4911ca6145dde0463f2bcd27bd28c45d28be/github-header-image%20(2).png)
 
 </a>
 
 <p align="center">
 
 <a href="https://github.com/Aryanb10" target="_blank">
-    <img src="./images/github.png" height="30px">
+    <img src="githubpic.png" height="30px">
 </a>
 <a href="https://www.linkedin.com/in/aryan-bisht10/" target="_blank">
-    <img src="./images/linkedin.png" height="30px">
+    <img src="lnkedInpic.png" height="30px">
 </a>
 <a href="https://www.hackerrank.com/profile/ab0338" target="_blank">
-    <img src="./images/hackerRank.png" height="30px">
+    <img src="hackerrankpic.png" height="30px">
 </a>
 </p>
 <br>
