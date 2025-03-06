@@ -1,6 +1,4 @@
-![Header file](https://github.com/Aryanb10/Aryanb10/blob/3daf4911ca6145dde0463f2bcd27bd28c45d28be/github-header-image%20(2).png) 
-
-</a>
+ <img src="https://github.com/Aryanb10/Aryanb10/blob/47b36ce4416d4e0cf1fb033fc4fc355e670dfde7/github-header-image%20(2).png" align="center"> 
 
 <p align="center">
 
@@ -32,7 +30,5 @@ I'm a dedicated student at SRM University, currently pursuing my Bachelor's degr
 - 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
 - 📫 &nbsp;You can contact me [here](mailto:aryan.b1904@gmail.com).
 
-  
-<br><br>
-
+  <br><br>
 Thanks for stopping by! 😊
