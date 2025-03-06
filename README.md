@@ -13,6 +13,9 @@
 <a href="https://www.hackerrank.com/profile/ab0338" target="_blank">
     <img src="hackerrankpic.png" height="30px">
 </a>
+<a href="https://www.instagram.com/aryan_ly10/" target="_blank">
+    <img src="instapic.webp" height="30px">
+</a>
 </p>
 <br>
 
