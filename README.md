@@ -1,4 +1,4 @@
-![Header file](https://github.com/Aryanb10/Aryanb10/blob/3daf4911ca6145dde0463f2bcd27bd28c45d28be/github-header-image%20(2).png)
+![Header file](https://github.com/Aryanb10/Aryanb10/blob/3daf4911ca6145dde0463f2bcd27bd28c45d28be/github-header-image%20(2).png) 
 
 </a>
 
@@ -19,15 +19,15 @@
 </p>
 <br>
 
-<h2 align="center" >Hi 👋, I'm Aryan Bisht
-</h2>
+<h1 align="center" >Hi👋, I'm Aryan Bisht
+</h1>
 
-<img align=right width=350 height=300 src="./images/anXNiX.gif"/>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aryanb10&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🚀 About Me
-Hi! I'm Aryan Bisht,a dedicated student at SRM University, currently pursuing my Bachelor's degree in Computer Science and Engineering. Passionate about technology and eager to contribute to the ever-evolving field of computer science.
+I'm a dedicated student at SRM University, currently pursuing my Bachelor's degree in Computer Science and Engineering. Passionate coder with a love for problem-solving and innovation. Always exploring new technologies, writing clean and efficient code, and turning ideas into reality through programming. Whether it’s web development, algorithms, or software design, I thrive on challenges and continuous learning. Let's build something amazing!
 
 - 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
 - 📫 &nbsp;You can contact me [here](mailto:aryan.b1904@gmail.com).
