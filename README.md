@@ -29,6 +29,5 @@ I'm a dedicated student at SRM University, currently pursuing my Bachelor's degr
 
 - 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
 - 📫 &nbsp;You can contact me [here](mailto:aryan.b1904@gmail.com).
-
-  <br><br>
+<br>
 Thanks for stopping by! 😊
