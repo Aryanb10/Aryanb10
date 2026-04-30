@@ -27,7 +27,13 @@
 ## 🚀 About Me
 I'm a dedicated student at SRM University, currently pursuing my Bachelor's degree in Computer Science and Engineering. Passionate coder with a love for problem-solving and innovation. Always exploring new technologies, writing clean and efficient code, and turning ideas into reality through programming. Whether it’s web development, algorithms, or software design, I thrive on challenges and continuous learning. Let's build something amazing!
 
-- 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
 - 📫 &nbsp;You can contact me [here](mailto:aryan.b1904@gmail.com).
 <br>
+
+<p align="center">
+<a href="https://leetcode.com/Aryan_b10/">
+  <img src="https://leetcard.jacoblin.cool/Aryan_b10?theme=dark&font=baloo&ext=heatmap" />
+</a>
+</p>
+
 Thanks for stopping by! 😊
