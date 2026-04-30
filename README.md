@@ -1,4 +1,4 @@
- <img src="https://github.com/Aryanb10/Aryanb10/blob/47b36ce4416d4e0cf1fb033fc4fc355e670dfde7/github-header-image%20(2).png" align="center"> 
+ <img src="https://github.com/Aryanb10/Aryanb10/blob/main/Github_Banner.png" align="center"> 
 
 <p align="center">
 
